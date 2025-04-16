@@ -1,4 +1,4 @@
-# Day 1 Report
+# Day 1 Report (16/04/2025)
 
 ### ✅ Progress
 Got the Reddit API and started experimenting with it:
