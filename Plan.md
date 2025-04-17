@@ -170,5 +170,4 @@ Over time, the system evolves into a scalable micro-agency where interns use AI 
 
 ---
 
-Would you like help turning this into a pitch deck or Notion workspace next?
 
