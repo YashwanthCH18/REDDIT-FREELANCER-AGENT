@@ -15,28 +15,36 @@ Over time, the system evolves into a scalable micro-agency where interns use AI 
 - **AI Job Finder**:
   - Scrapes Reddit (and later other platforms) for people asking for help in automation, frontend, backend, APIs, small tools, etc.
   - Can interact (comment/message) with clients using a branded assistant persona (e.g., "Hi, I’m Riya from QuickLabs!").
-  - AI is *transparent* about being an assistant — but posts sparingly to avoid bans.
+  - AI **does not mention it's an AI** unless absolutely necessary in context.
+  - Posts sparingly and comments in human-like, natural language to avoid bans.
 
 - **Human + AI Communication Layer**:
   - AI handles 100% communication initially.
   - You can take over manually at any time.
   - AI escalates when unsure (edge-case framework below).
+  - Once the user finishes telling the requirements, AI gives a summarized list of what it understood.
+    - The user can modify the requirements.
+    - Work begins **only after** user approval.
 
 - **Job Selection and Assignment by AI**:
-  - Trusted workers (you and friends) get to see job briefs and **choose** what they want to take.
-  - Slack workspace created where new jobs are posted.
-  - Workers claim jobs by reacting to a post or submitting interest.
-  - Workers only see:
+  - Workers (you and friends) specify **what kind of jobs** they want AI to search for **in the Slack group**.
+  - AI filters jobs accordingly and posts them **in the same group**.
+  - Jobs are posted in Slack with brief details:
     - Task name
     - Short description
     - Deadline
     - Skills required
     - Link to submit work
+  - Workers claim jobs by reacting or messaging in Slack.
+  - If a worker wants to **change their job preferences**, they can message AI in the group again at any time with updated preferences.
+  - The first one to claim gets the job, and you or the AI confirms the assignment.
+  - Once a job is completed, the worker sends the code/project to **you**.
+    - You check it against the requirements.
+    - After your approval, the AI submits the work to the client.
   - Workers **do not see**:
     - Client name
     - Platform client was sourced from
     - Payment details or total project value
-  - You or the AI assigns the task based on availability and skills.
   - You remain the only point of contact with the client.
 
 - **Edge Case Handling by AI**:
@@ -91,6 +99,10 @@ Over time, the system evolves into a scalable micro-agency where interns use AI 
   - Automatically engages in target subreddits (comments, light posts) to make the accounts look real.
   - Industry/domain can be pre-configured.
   - Used for future job outreach.
+
+- **Emergency Job Redistribution**:
+  - If a worker is unable to complete a job, they can flag it.
+  - AI reassigns or redisplays the task to other available workers.
 
 - **Website (Expanded)**:
   - Worker portal with job history, training modules, certificates.
@@ -169,5 +181,3 @@ Over time, the system evolves into a scalable micro-agency where interns use AI 
 - **Community**: Slack channels for interns to help each other and get peer-reviewed.
 
 ---
-
-
