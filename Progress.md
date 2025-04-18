@@ -69,3 +69,57 @@ They’ll:
 ---
 
 _— Yashwanth C H_
+
+
+# Day 3 Report (18/04/2025)
+
+### 🔄 More Refining
+1. Instead of diving straight into the “how,” I ended up **refining the “what” even more** — clarity is king.  
+2. Then shifted focus to figuring out **how to build a frontend** that's not just “good,” but **great**, functional, and even includes **WebGL** support.  
+
+---
+
+### 🧰 Tool Time
+3. Explored more **no-code and AI tools** to boost dev speed.  
+4. Learned **how expert devs** build professional frontends.  
+5. Checked out the **tools they use**, then...  
+6. Learned about **AI tools that could replace those tools** (because why not let the robots do the heavy lifting?).  
+7. Searched for **alternatives to paid or platform-locked tools** — no-code is cool till it’s clingy.  
+8. **Accidentally spent more time learning frontend than working on the actual SaaS project** — oops, but hey, at least now the frontend’s gonna look fire.  
+
+---
+
+### 🌐 WebGL Goodness
+9. Found an **awesome WebGL site**:
+   - Super slick and easy to use.  
+   - Supports wireframes, images, audio, video, and more!  
+   - **Not fully free**, and sadly... **I’m waitlisted** when trying to register. But still, a gem.
+
+---
+
+### ⚙️ Getting Into the “How”
+10. Kicked off work on the **"how" phase**, and from now on, I’ll be **pasting notes directly from my planning doc** (lightly cleaned up).
+
+---
+
+### 🧱 Action Plan
+#### Phase Execution Strategy:
+- **Break each phase** into smaller, executable coding tasks.
+- Since AI is doing the heavy lifting:
+  - Ask the AI to further divide each part.
+  - Build each part.
+  - **Test each feature rigorously** (not just the new one but the whole system).
+  - Only proceed if everything works.
+
+#### Internal Tools & Systems:
+1. **Slack Form** to collect worker details from the start.  
+2. **Context awareness** for people, clients, and jobs — especially when the same person is involved across multiple projects.  
+3. Use an **AI character** (instead of training something like Gemini) — ideally one that allows uploading or injecting specific context/data.
+
+> Note: That last point kinda sucks... might scrap it or rethink it later.
+
+---
+
+_— Yashwanth C H_
+
+
