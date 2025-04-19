@@ -123,3 +123,19 @@ _— Yashwanth C H_
 _— Yashwanth C H_
 
 
+# Day 4 Report (19/04/2025)
+
+### 🚫 No Progress Today
+
+Couldn’t get anything done — was down with **migraines** and **food poisoning** 🤕.  
+Body said **“no code today”**, and I had to listen.
+
+Gonna rest up and bounce back stronger.  
+Health > Hustle.
+
+---
+
+_— Yashwanth C H_
+
+
+
