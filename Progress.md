@@ -138,4 +138,23 @@ Health > Hustle.
 _— Yashwanth C H_
 
 
+# Day 5 Report (20/04/2025)
+
+### 😷 Still Recovering
+Wasn’t feeling fully healthy today — still dealing with the aftermath of yesterday’s chaos (thanks, migraines + food poisoning 💀).
+
+---
+
+### ⚙️ Still, Got Some Work Done
+- Pushed a bit through the fog and worked more on the **“how” plan**.
+- The **“how” is almost done** — just needs a few final touches and it’ll be ready to execute.
+
+> Not a full-throttle day, but progress is progress.
+
+---
+
+_— Yashwanth C H_
+
+
+
 
